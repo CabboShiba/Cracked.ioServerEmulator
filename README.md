@@ -25,7 +25,7 @@ It generates valid response, with random credentials. It also uses Max Rank poss
 
 # Requirement's
 
-- .NET Runtime (7.0.2)[https://google.com]
+- [.NET Runtime 7.0.2](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-7.0.2-windows-x64-installer)
  
  
 # Credits
@@ -37,4 +37,6 @@ https://t.me/OfficialChaos | https://github.com/FaxHack
 https://t.me/CabboShiba | https://github.com/CabboShiba
 
 
-https://github.com/chronoxor/NetCoreServer#example-https-server - Library used to make the HTTPS Server (THXXX).
+# Library used
+
+https://github.com/chronoxor/NetCoreServer#example-https-server - Libray used to make the HTTPS Server.
