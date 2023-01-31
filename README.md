@@ -1,4 +1,5 @@
 # Cracked.ioServerEmulator
+
 Server Emulator for Cracked.io Auth. Made by Cabbo &amp; FaxHack/https://t.me/@OfficialChaos
 
 # How it works
@@ -34,7 +35,7 @@ Projects Developer:
 
 https://t.me/OfficialChaos | https://github.com/FaxHack
 
-https://t.me/CabboShiba | https://github.com/CabboShiba
+FreeCabbo11#9191 - https://t.me/CabboShiba | https://github.com/CabboShiba
 
 
 # Library used
