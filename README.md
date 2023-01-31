@@ -37,6 +37,9 @@ https://t.me/OfficialChaos | https://github.com/FaxHack
 
 FreeCabbo11#9191 - https://t.me/CabboShiba | https://github.com/CabboShiba
 
+# Other Releases
+
+https://github.com/FaxHack/Cracked.ioServerEmulator
 
 # Library used
 
